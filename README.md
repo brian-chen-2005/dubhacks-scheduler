@@ -25,5 +25,5 @@ We’re proud of how smoothly everything came together. By overcoming technical 
 ## How to run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/not-matty/udub-scheduler.git
+   git clone https://github.com/brian-chen-2005/dubhacks-scheduler.git
 ![image](https://github.com/user-attachments/assets/86ed0881-d5e4-4d8b-82e1-1979d9538e76)
