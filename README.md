@@ -2,6 +2,9 @@
 
 An AI-powered webapp designed to simplify and streamline the course scheduling process for University of Washington students.
 
+## DEMO
+https://youtu.be/CT51-PUmtJQ?si=mFX6aaJAEPqKEJ0o
+
 ## Inspiration
 We were motivated by the inefficiencies in UDub’s MyPlan, which makes scheduling more complicated than it needs to be. Our goal was to create a smarter, more intuitive solution that eliminates the usual scheduling headaches.
 
